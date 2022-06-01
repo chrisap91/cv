@@ -1,0 +1,28 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #051367;
+}
+
+h3{
+  color: #205375;
+}
+
+ html {
+  scroll-behavior: smooth;
+}
+
+ html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
