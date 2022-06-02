@@ -21,8 +21,3 @@ h3{
   scroll-behavior: smooth;
 }
 
- html {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
